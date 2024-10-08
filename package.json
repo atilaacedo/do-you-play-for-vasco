@@ -1,0 +1,13 @@
+{
+  "name": "do-you-play-for-vasco",
+  "version": "1.0.0",
+  "description": "Você joga no Vasco?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Vasco"],
+  "author": "BatmanVascaino",
+  "license": "ISC",
+  "homepage": "https://github.com/atilaacedo/do-you-play-for-vasco/blob/master/Readme.md"
+}
